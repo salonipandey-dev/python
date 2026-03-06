@@ -1,0 +1,6 @@
+a=input("Give the name of leader :")
+print("the name of leader is:",a)
+b=input("Give the name of country :")
+print("the name of country is:",b)
+c=int(input("Give the age of leader :"))
+print("the age of leader is:",c)
