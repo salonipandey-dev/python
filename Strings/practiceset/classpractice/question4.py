@@ -1,0 +1,1 @@
+#write a py function that takes a list and return a new list wiht different elements of the first list.

@@ -1,0 +1,1 @@
+#write a python function to multiply all the numbers in a list
