@@ -7,8 +7,6 @@ for i in str:
         upper+=1
     elif i.islower():
         lower+=1
-    else:
-        print("not applicable to count")
 print("upper case letters: ",upper)
 print("lower case letters: ",lower) 
 
