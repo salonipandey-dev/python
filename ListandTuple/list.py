@@ -1,2 +1,5 @@
-a=[1,2,"hi",3.4]
-print(a)
+tup=(91,3,2,4)
+list1=list(tup)
+list1.append(600)
+tup1=tuple(list1)
+print(tup1)
