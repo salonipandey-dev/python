@@ -1,0 +1,13 @@
+t=(1,2,3,4,5,)
+print(t)
+print(type(t))  
+a=(1,)
+print(a)
+print(type(a))
+#tuples are immutable they can't change their values but we can create a new tuple by concatenating the old tuple with the new value.
+t=t+(6,)
+print(t)    
+w=t.count(2)
+print(w)
+e=t.index(4)
+print(e)
