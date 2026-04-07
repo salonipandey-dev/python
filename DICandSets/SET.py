@@ -1,0 +1,11 @@
+sett={1,2,3,4,5}
+print(sett)
+print(type(sett))
+sett.add(6)
+print(sett)
+sett.add(3)
+print(sett)
+sett.remove(2)
+print(sett)
+sett.discard(10)
+print(sett)
