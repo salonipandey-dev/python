@@ -7,7 +7,7 @@ computer = -1
 youstr =input("enter your choice :")
 youDict={"snake":1,"water":-1,"gun":0}
 you=youDict[youstr]
-if(computer==-1 and you==1)
+if(computer==-1 and you==1):
     print("you win")
 elif(computer==1 and you==-1):
     print("computer wins")
